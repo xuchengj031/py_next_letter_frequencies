@@ -3,7 +3,7 @@
 *.txt
 *.csv
 *.pdf
-*.svg
+/*.svg
 /*.png
 __pycache__/**
 attempt/**
